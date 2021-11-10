@@ -1,0 +1,3 @@
+1522665;Trần Duy Hùng;CS;8.0;9.0
+1655227;Nguyễn Văn A;CNTT;8.0;6.0
+1655228;Đinh Thanh Tuyền;CS;9.0;10.0
